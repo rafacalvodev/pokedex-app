@@ -7,7 +7,7 @@ function Footer() {
         Made by{' '}
         <a
           className='text-indigo-300'
-          href='https://github.com/rafacalvo'
+          href='https://github.com/rafacalvodev'
           target='_blank'
           rel='noopener noreferrer'>
           Rafael Calvo
